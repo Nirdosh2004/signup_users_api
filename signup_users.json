@@ -1,0 +1,23 @@
+
+  [
+    {
+      "id":1,
+      "full_name":"Nirdosh Kushwaha",
+      "addmission_number":"BCA22071",
+      "email":"hrishabhkushwaha73@gmail.com",
+      "create_password":"1234",
+      "confirm_password":"1234",
+      "options":"Student"
+    },
+    {  
+      "id":2,
+      "full_name":"Nirdosh",
+      "addmission_number":"BCA220713833838",
+      "email":"hrishabhkushwaha73@gmail.com",
+      "create_password":"12345",
+      "confirm_password":"12354",
+      "options":"Teacher"
+    }
+  ]
+
+      
